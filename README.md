@@ -1,1 +1,3 @@
-# 705teampoject
+Bigfoot is an ape-like creature purported to inhabit the forests of North America. While reported Bigfoot sightings throughout the 20th century have consistently aroused curiosity, the world has little understanding of this mysterious being. 
+
+In this analysis project, our team compiled data from different sources to gain insights into Bigfoot as well as potential trends associated with its sightings. By creating seven visualizations that translated data-driven findings into easily understood representations, not only did we investigate the domestic geographic distribution, time series, and common narrative of Bigfoot sightings, but we also explored the impacts of county-level socioeconomic variables on the likelihood of these sightings.
